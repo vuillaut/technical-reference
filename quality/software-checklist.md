@@ -4,6 +4,9 @@ Software Quality Checklist
 General
 -------
 
+- [x] Hello
+- [ ] Hallo
+
 -  [ ] Does the software have a descriptive name?
 -  [ ] Is there a short high-level description of the software?
 -  [ ] Is the purpose of the software clear?
